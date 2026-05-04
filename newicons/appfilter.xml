@@ -53333,9 +53333,6 @@
 	<item component="ComponentInfo{org.ramathibodi.ramaapp/com.scb.hosplatform.SplashActivity}" drawable="rama_app"/>
 	<item component="ComponentInfo{org.ramathibodi.ramaapp/com.scb.hosplatform.activity.SplashActivity}" drawable="rama_app"/>
 
-	<!-- RAMUchan -->
-	<item component="ComponentInfo{com.active.ramuchan/com.active.ramuchan.MainActivity}" drawable="RAMUchan"/>
-
 	<!-- RandoChat -->
 	<item component="ComponentInfo{com.random.chat.app/com.random.chat.app.ui.splash.SplashScreenActivity}" drawable="randochat"/>
 
